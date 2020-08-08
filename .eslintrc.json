@@ -29,6 +29,7 @@
         "prettier"
     ],
     "rules": {
+    "no-unused-expressions":"off",
     "camelcase":"off",
     "import/no-duplicates": "off",
     "prettier/prettier": "error",
